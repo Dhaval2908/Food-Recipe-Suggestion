@@ -1,0 +1,140 @@
+Jamaican Jerk Chicken,Main Dish,Chicken
+Pasta Salad,Salad,Kielbasa,Noodles
+Lasagna,Main Dish,Sausage,Noodles
+Hearty Pancakes,Breakfast,Milk,Eggs,Corn Meal
+Summer Garden Couscous Salad,Salad,Vegetarian
+Squash Corn Chowder,Main Dish,Vegetarian,Potatoes
+White beans, tomatoes, and spinach,Main Dish,Rice,Vegetarian,Beans,Eggs
+Spaghetti,Main Dish,Noodles,Marinara Sauce
+Scones,Baking Basics,
+Pizza,Main Dish,Sausage,Cheese
+Stir-Fry,Main Dish,Chicken,Rice
+Rustic Italian Tortellini Soup,Main Dish,Sausage,Noodles,Cheese
+Swedish Meatballs,Main Dish,Beef,Noodles,Eggs
+Barley Beef Skillet,Main Dish,Beef
+Southwest Beef & Rice Skillet,Main Dish,Beef,Rice,Beans
+Glazed Pork Chops with Corn Bread Dressing,Main Dish,Pork
+Fried Rice,Main Dish,Chicken,Eggs,Rice
+Zesty Sausage & Beans,Main Dish,Sausage,Beans,Rice
+Prosciutto Pasta Toss,Main Dish,Noodles,Ham
+Cashew Chicken with Noodles,Main Dish,Noodles,Chicken
+Herb Chicken with Honey Butter,Main Dish,Chicken
+French Toast,Breakfast,Eggs
+Swedish Pancakes,Breakfast,Milk,Eggs
+Baked Cheddar Eggs & Potatoes,Main Dish,Potatoes,Bacon,Cheese,Eggs
+Baked Mostaccioli,Main Dish,Noodles,Marinara Sauce,Cheese,Sausage
+Ravioli with Snap Peas,Main Dish,Noodles,Milk,Cheese
+Cloverleaf Rolls,Side Dish,Milk
+Greek Yogurt and Honey Blueberry Muffins,Breakfast,Eggs,Milk
+Whole Grain Waffles,Breakfast,Eggs,Milk
+Lemon Bars,Dessert,
+Qahaq Cookies,Dessert,
+Blondies with Nutella,Dessert,
+Hot Chocolate,Dessert,Milk
+Chocolate Mousse,Dessert,Eggs
+S'mores Cookie Bars,Dessert,
+Orange Chicken,Main Dish,Chicken,Rice
+Tostadas,Main Dish,Chicken,Cheese
+Black Bean Stuffed Sweet Potatoes,Main Dish,Beans,Cheese
+Asian Shredded Beef,Main Dish,Beef,Noodles
+Capellini with sausage, spinach, and jalapeno,Main Dish,Sausage,Noodles
+Crispy Chicken with Kale,Main Dish,Chicken
+Roast Chicken Grain Bowl,Main Dish,Chicken
+Chicken thighs with barley and peas,Main Dish,Chicken
+Rice noodles with meatballs and bok choy,Main Dish,Beef,Noodles
+Paprika Pork with Roasted Potatoes and Dill Cream,Main Dish,Pork,Potatoes
+Chicken cutlets with carrot and kale salad,Main Dish,Chicken
+Gnocchi and sweet potatoes,Main Dish,
+Shepherd's Pie,Main Dish,Beef,Potatoes
+Garlic Parmesan Chicken,Main Dish,Chicken,Rice
+Turkey Pot Pie,Main Dish,Turkey
+Balsamic Bacon Brussels Sprouts,Side Dish,Bacon
+Lemon Red Potatoes,Side Dish,Potatoes
+Potato and Corn Chowder,Main Dish,Potatoes,Milk,Cheese
+Thai Chicken,Main Dish,Chicken,Noodles,Eggs
+Italian Fagoli Vegetable Soup,Main Dish,Vegetarian,Beans,Noodles
+Blueberry Pie,Dessert,
+Chocolate Pudding,Dessert,
+Browned Butter Beets,Side Dish,Beets,Breadcrumbs
+Turkey Soup with Homemade Noodles,Main Dish,Turkey,Noodles
+Home fries,Side Dish,Potatoes
+Chocolate Raspberry Torte,Dessert,Eggs,Milk
+Golden Latte,Drink,Milk
+Fig Shake,Drink,Milk
+Lentil Soup,Main Dish,Lentils,Vegetarian,Carrots,Onion
+Buckwheat Tabboulah,Main Dish,Buckwheat,Vegetarian,Carrots,Onion
+Lentil Rice Bowls with Egg,Main Dish,Rice,Lentils,Onion
+Italian Vegetable Lentil Soup,Main Dish,Lentils,Onion,Vegetarian
+One Pot Chicken & Potatoes,Main Dish,Potatoes,Chicken,Carrots,Onion
+Sweet Korean Lentils,Main Dish,Lentils,Rice,Onion
+Buckwheat Beetroot Salad,Main Dish,Beets,Buckwheat
+New Potato Lentil Salad,Main Dish,Potatoes,Lentils
+Ham & Potato Soup,Main Dish,Potatoes,Ham,Onion,Milk
+Lemon Dill Potatoes,Main Dish,Potatoes
+BBQ Lentils,Main Dish,Lentils,Rice
+Healthy Buckwheat Soup,Main Dish,Buckwheat,Carrots,Onion
+Buckwheat Chicken Pilaf,Main Dish,Buckwheat,Carrots,Chicken,Onion
+Vegetable Noodle Soup,Main Dish,Carrots,Noodles
+Bacon and Honey Potato Salad,Main Dish,Potatoes,Bacon
+Pretzel Sticks,Baking Basics,Eggs,Flour,Yeast
+Golden French Lentil Soup,Main Dish,Lentils
+Lentil Shepherd's Pie,Main Dish,Lentils,Carrots,Onion,Peas,Potatoes
+Honey Lime Chicken,Main Dish,Chicken,Rice
+Lentil Curry,Main Dish,Lentils,Carrots,Onion
+Dutch Oven Bread,Baking Basics,Flour,Yeast
+Potato Apple Roast,Main Dish,Apple,Potatoes,Ham
+Baking Powder Biscuits,Baking Basics,Flour,Milk,Eggs
+Sugar Cookies,Baking Basics,Flour,Eggs
+Potato Curry,Main Dish,Potatoes,Vegetarian
+Bucatini all'Amatriciana,Main Dish,Noodles,Tomatoes,Bacon
+Brioche Chocolate Rolls,Baking Basics,Flour,Eggs,Yeast,Fish
+Naan,Baking Basics,Milk,Yogurt,Flour,Yeast
+Lemon Poppy Seed Scones,Baking Basics,Flour,Butter,Sour Cream
+Balsamic Dijon Root Vegetables,Main Dish,Potatoes,Onion,Carrots,Parsnips
+Best Baked Chicken Legs,Main Dish,Chicken,Rice
+Spanish Lentil Soup,Main Dish,Ham,Lentils
+Chocolate Chip Irish Soda Bread,Baking Basics,Flour,Chocolate Chips
+Malteese Gilatti,Baking Basics,Flour,Butter,Yeast
+Buckwheat Carrot and Onion,Main Dish,Buckwheat,Carrots,Onion
+Sweet Potatoes with Yogurt and Chickpeas,Main Dish,Chickpeas,Potatoes,Yogurt,Eggs
+Spanish Chickpeas,Main Dish,Chickpeas,Flour,Yogurt,Onion,Eggs
+Lemon Fettuchini,Main Dish,Noodles,Coconut milk
+Chickpea Masala,Main Dish,Chickpeas,Flour,Yogurt,Eggs
+Chickpea Broccoli Pesto,Side Dish,Broccoli,Chickpeas
+Thai Veggie Soup,Main Dish,Coconut milk,Noodles
+Buttery Herb Chicken,Main Dish,Chicken,Rice
+Rosemary Parsnips,Main Dish,Parsnips
+Balsamic Potatoes and Asparagus,Main Dish,Potatoes,Asparagus
+Quinoa Brussels Sweet Potato Salad,Main Dish,Quinoa,Brussels Sprouts ,Sweet potato
+Thai Peanut Cabbage Quinoa,Main Dish,Quinoa,Cabbage,Peanut
+Lemon Garlic Asparagus with Orzo,Main Dish,Orzo,Asparagus
+Moroccan Sweet Potato Lentil Stew,Main Dish,Sweet potato,Lentils,Spinach,Onion,Carrots
+Chia Crusted Salmon,Main Dish,Salmon,Chia
+Pinto Beans and Tomatillo Cilantro Lime Rice,Main Dish,Beans,Rice,Onion,Tomatillo,Lime,Garlic
+Thai Squash Soup,Main Dish,Squash,Coconut milk,Peanut,Onion,Garlic,Carrots,Cilantro
+Roasted Carrot & Peanut Sauce,Main Dish,Carrots,Peanut,Cilantro
+Majoram White Wine Chicken,Main Dish,Chicken,Wine
+Marjoram Carrots,Side Dish,Carrots,Garlic
+Soy Mustard Salmon,Main Dish,Salmon,Soy Sauce,Dijon Mustard,Garlic,Ginger
+Chive Butter Radishes,,
+Mango Chutney,Side Dish,Mango,Cheese,Apple,Raisins,Bell Pepper,Jalopeno Pepper
+Vegetarian Chili,Main Dish,Vegetarian,Tomatoes
+Sweet Potato Breakfast Burritos,Main Dish,Sweet potato
+Roasted Sweet Potato Lentil Salad,Salad,Lentils,Sweet potato,Spinach,celery
+Cornbread,Side Dish,Butter,Milk,Flour,Corn Meal,Baking Powder
+Brussel Honey Lentil Quinoa,Main Dish,Brussels Sprouts ,Quinoa,Lentils,Onion
+Lentil Sweet Potato Curry,Main Dish,Sweet potato,Apple,Lentils,Onion,Garlic,Tomatoes,Rice
+Gnocci and white beans,Main Dish,Beans,Spinach,Tomatoes,gnocchi,Cheese
+Pad Thai,Main Dish,Vegetarian,Noodles
+Kung Pao Chicken,Main Dish,Chicken,Peanut,Water chestnuts
+Mediterranean Tuna Steaks,Main Dish,Tuna,Capers
+Spicy Black Bean Nachos,Main Dish,Beans,Adobo Chile
+Tomato Basil Soup,Main Dish,Tomatoes,Basil
+Chewy Chocolate Chip COokies,Dessert,Butter,Chocolate Chips,Flour
+Quinoa Peanut Kale Curry,Main Dish,Quinoa,Kale,Peanut,Cilantro,Onion,Coconut milk
+Sweet Potato Lentil Curry with Pickled Onion,Main Dish,Sweet potato,Red onion,Lentils,Ginger,Coconut milk,Cilantro
+Sardine Mediterranean Pasta,Main Dish,Sardine,Capers,Shallots,Lemon,Parsley
+Prosciutto apple flatbread pizza,Main Dish,Apple,Prosciutto,Cheese
+Dill Cucumber Salmon,Main Dish,Fish,Yogurt,Cucumber,Dill,Broccoli,Red onion
+Vegetable Couscous,Main Dish,Couscous,Green Onion,Carrots
+Talapia Tacos,Main Dish,Tilapia
