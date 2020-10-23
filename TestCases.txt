@@ -1,0 +1,11 @@
+Test Cases :
+
+Potatoes Bacon Cheese Eggs
+Chicken Eggs Rice
+Chicken
+Chicken Rice
+Beets Breadcrumbs
+Rice Lentils Onion
+Buckwheat Vegetarian Carrots Onion
+Lentils Vegetarian Carrots Onion
+Eggs Milk
